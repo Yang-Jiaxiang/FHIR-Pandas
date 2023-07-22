@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FHIR-Pandas/static/css/main.0a8101b7.css",
+    "main.js": "/FHIR-Pandas/static/js/main.860ac1fd.js",
+    "index.html": "/FHIR-Pandas/index.html",
+    "main.0a8101b7.css.map": "/FHIR-Pandas/static/css/main.0a8101b7.css.map",
+    "main.860ac1fd.js.map": "/FHIR-Pandas/static/js/main.860ac1fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a8101b7.css",
+    "static/js/main.860ac1fd.js"
+  ]
+}
