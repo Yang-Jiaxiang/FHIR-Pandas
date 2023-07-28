@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/FHIR-Pandas/static/css/main.0a8101b7.css",
-    "main.js": "/FHIR-Pandas/static/js/main.34babd21.js",
-    "index.html": "/FHIR-Pandas/index.html",
-    "main.0a8101b7.css.map": "/FHIR-Pandas/static/css/main.0a8101b7.css.map",
-    "main.34babd21.js.map": "/FHIR-Pandas/static/js/main.34babd21.js.map"
+    "main.css": "./static/css/main.0a8101b7.css",
+    "main.js": "./static/js/main.e08165ab.js",
+    "index.html": "./index.html",
+    "main.0a8101b7.css.map": "./static/css/main.0a8101b7.css.map",
+    "main.e08165ab.js.map": "./static/js/main.e08165ab.js.map"
   },
   "entrypoints": [
     "static/css/main.0a8101b7.css",
-    "static/js/main.34babd21.js"
+    "static/js/main.e08165ab.js"
   ]
 }
